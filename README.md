@@ -68,3 +68,4 @@ Contact
 
 Developed and maintained by Shreyas Chowdhury. Reach out at chowdhuryshreyas740@gmail.com.
 
+WORKING LINK: https://huggingface.co/spaces/srmlover/bruhma.ai
